@@ -46,13 +46,22 @@ namespace PerfectNumbers
         }
         private void btnFind_Click(object sender, EventArgs e)
         {
-            //
-            FindPerfectNumber(int.Parse(txtN.Text.ToString()));
+            try
+            {
+                // call the method to find the evaluate the number, with error checking
+                FindPerfectNumber(int.Parse(txtN.Text.ToString()));
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Please enter a number before finding", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+
+            }
         }
 
         private void btnClose_Click(object sender, EventArgs e)
         {
             this.Close();
         }
+        
     }
 }

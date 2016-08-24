@@ -5,3 +5,10 @@ C:\Users\Moses VB\Documents\Visual Studio 2010\Projects\PerfectNumber\PerfectNum
 C:\Users\Moses VB\Documents\Visual Studio 2010\Projects\PerfectNumber\PerfectNumber\obj\x86\Debug\PerfectNumber.csproj.GenerateResource.Cache
 C:\Users\Moses VB\Documents\Visual Studio 2010\Projects\PerfectNumber\PerfectNumber\obj\x86\Debug\PerfectNumber.exe
 C:\Users\Moses VB\Documents\Visual Studio 2010\Projects\PerfectNumber\PerfectNumber\obj\x86\Debug\PerfectNumber.pdb
+C:\ehealth\eHTest\C#\PerfectNumber\PerfectNumber\obj\x86\Debug\PerfectNumber.exe
+C:\ehealth\eHTest\C#\PerfectNumber\PerfectNumber\obj\x86\Debug\PerfectNumber.pdb
+C:\ehealth\eHTest\C#\PerfectNumber\PerfectNumber\obj\x86\Debug\PerfectNumbers.Form1.resources
+C:\ehealth\eHTest\C#\PerfectNumber\PerfectNumber\obj\x86\Debug\PerfectNumber.Properties.Resources.resources
+C:\ehealth\eHTest\C#\PerfectNumber\PerfectNumber\obj\x86\Debug\PerfectNumber.csproj.GenerateResource.Cache
+C:\ehealth\eHTest\C#\PerfectNumber\PerfectNumber\bin\Debug\PerfectNumber.exe
+C:\ehealth\eHTest\C#\PerfectNumber\PerfectNumber\bin\Debug\PerfectNumber.pdb
