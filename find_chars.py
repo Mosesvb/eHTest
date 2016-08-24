@@ -9,7 +9,7 @@ def find_chars(string1, string2):
     return_string = ""
     for string1_char in string1:
         for string2_char in string2:
-            if string1_char == string1_char:
+            if string1_char == string2_char:
                 return_string += string1_char
                 break
     return return_string
